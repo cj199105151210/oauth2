@@ -1,0 +1,6 @@
+2019-04-28 14:12:47  [ restartedMain:0 ] - [ INFO ]  {dataSource-1} inited
+2019-04-28 14:21:47  [ Thread-31:540016 ] - [ INFO ]  {dataSource-1} closed
+2019-04-28 14:22:03  [ restartedMain:16 ] - [ INFO ]  {dataSource-1} inited
+2019-04-28 14:38:04  [ Thread-29:961051 ] - [ INFO ]  {dataSource-1} closed
+2019-04-28 18:10:55  [ restartedMain:0 ] - [ INFO ]  {dataSource-1} inited
+2019-04-28 18:12:30  [ Thread-29:94991 ] - [ INFO ]  {dataSource-1} closed
